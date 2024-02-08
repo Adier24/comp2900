@@ -33,3 +33,10 @@ while (n < 4):
     print (n)
     n += 1
     
+print("**********************************")
+
+opcion = 1
+while (opcion != 0):
+    opcion = int(input("0 Terminar - 1 Continuar:"))
+
+print("Fin")
